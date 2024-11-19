@@ -30,8 +30,7 @@ Install the required libraries using:
 
 ```bash
 pip install requests beautifulsoup4 pandas
-```bash
-
+```
 ---
 
 ## How to Use
@@ -41,12 +40,14 @@ pip install requests beautifulsoup4 pandas
 ```bash
 git clone https://github.com/your-username/best-movies-scraper.git
 cd best-movies-scraper
-```bash
+```
+
 ### Run the Script:
 
 ```bash
 python scraper.py
-```bash
+```
+
 ---
 
 ## Notes
@@ -69,8 +70,7 @@ We welcome contributions to improve the script! You can contribute by:
 
 ## License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code as per the terms of the license. See the [LICENSE](LICENSE) file for more details.
-
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code as per the terms of the license.
 ---
 
 ## Contact
